@@ -1,5 +1,18 @@
 # Social Media App Design
 
+[**Live Demo**](https://itsiamdev.github.io/chatstream/)
+
+## 📸 Screenshots
+
+![Home Feed](public/Screenshot%202026-04-07%20131324.png)
+![Messages](public/Screenshot%202026-04-07%20131336.png)
+![Profile](public/Screenshot%202026-04-07%20131347.png)
+![Connections](public/Screenshot%202026-04-07%20131406.png)
+![Notifications](public/Screenshot%202026-04-07%20131416.png)
+![Discover](public/Screenshot%202026-04-07%20131601.png)
+![Explore](public/Screenshot%202026-04-07%20131629.png)
+![Create](public/Screenshot%202026-04-07%20131138.png)
+
 A modern social media application built with React, TypeScript, and Vite. This project features a comprehensive UI component library and a fully functional social media interface.
 
 ## 🚀 Features
